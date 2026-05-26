@@ -39,25 +39,19 @@ The frequency of oscillation is given by fo = 1/2πRC
 <img width="414" height="324" alt="image" src="https://github.com/user-attachments/assets/9415e086-a465-454d-8812-01a0708beb25" />
 
 ## TABULATION
-## WEIN BRIDGE
+## WEIN BRIDGE:
 
 | S.NO | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
 |------|-------------------|------------------|----------------|
-| 1    |                   |                  |                |
-| 2    |                   |                  |                |
-| 3    |                   |                  |                |
-| 4    |                   |                  |                |
-| 5    |                   |                  |                |
+| 1    |         2.32          |         20.1         |      49.98          |
+
+##
 
 ## RC PHASE SHIFT
 
 | S.NO | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
 |------|-------------------|------------------|----------------|
-| 1    |                   |                  |                |
-| 2    |                   |                  |                |
-| 3    |                   |                  |                |
-| 4    |                   |                  |                |
-| 5    |                   |                  |                |
+| 1    |        9.60           |       634           |  1.58              |
 
 ## DESIGN:
 ## RC PHASE SHIFT OSCILLATOR
@@ -89,7 +83,20 @@ PROCEDURE:
 3.	Measure the output wave frequency and amplitude
 
 ## OUTPUT
-PASTE UR GRAPH 
+
+RC PHASE SHIFT:
+##
+
+<img width="1489" height="1144" alt="WhatsApp Image 2026-05-25 at 11 45 32 PM" src="https://github.com/user-attachments/assets/1c062463-ef84-4008-abd0-91c76ac84bca" />
+
+##
+
+WEIN BRIDGE OSCILLATOR:
+##
+
+<img width="1495" height="1137" alt="WhatsApp Image 2026-05-25 at 11 39 36 PM" src="https://github.com/user-attachments/assets/7312c52b-e78e-4480-9a81-cba28f4706b2" />
+
+##
 
 ## RESULT
 Thus the RC Phase Shift and Wien Bridge oscillators are designed and tested using op-amp IC 741.
